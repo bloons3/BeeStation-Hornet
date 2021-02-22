@@ -12,5 +12,6 @@
 Ike709 = Host
 Crossedfall = Host
 CthulhuOnIce = Host
+bloons3 = Headmin
 
 # the rest are in the db
